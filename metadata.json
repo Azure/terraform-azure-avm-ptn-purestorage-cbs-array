@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Pure Storage Cloud Block Store on Azure",
+  "moduleDescription": "AVM Pattern Module for deploying Pure Storage Cloud Block Store on Azure.",
+  "canonicalType": "purestorage-cbs-array",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.cb80539"
+}
